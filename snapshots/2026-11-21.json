@@ -1,0 +1,3442 @@
+{
+  "date": "2026-11-21",
+  "repos": {
+    "awesome-skills/5-whys-skill": {
+      "stargazerCount": 66,
+      "forkCount": 7,
+      "pushedAt": "2025-12-03T05:02:19Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "Gabberflast/academic-pptx-skill": {
+      "stargazerCount": 1650,
+      "forkCount": 164,
+      "pushedAt": "2026-07-14T23:54:54Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "addyosmani/web-quality-skills": {
+      "stargazerCount": 3116,
+      "forkCount": 270,
+      "pushedAt": "2026-08-24T21:07:36Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "LambdaTest/agent-skills": {
+      "stargazerCount": 393,
+      "forkCount": 77,
+      "pushedAt": "2026-11-17T14:51:49Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "rohitg00/awesome-claude-code-toolkit": {
+      "stargazerCount": 2858,
+      "forkCount": 1122,
+      "pushedAt": "2026-05-12T07:18:34Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "getsentry/skills": {
+      "stargazerCount": 1191,
+      "forkCount": 71,
+      "pushedAt": "2026-11-14T19:39:01Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "microsoft/skills": {
+      "stargazerCount": 3232,
+      "forkCount": 372,
+      "pushedAt": "2026-11-20T17:31:05Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "anthropics/skills": {
+      "stargazerCount": 198320,
+      "forkCount": 23212,
+      "pushedAt": "2026-11-16T14:22:50Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "MengTo/Skills": {
+      "stargazerCount": 7941,
+      "forkCount": 904,
+      "pushedAt": "2026-11-20T12:09:32Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "n0an/App-Intents-Agent-Skill": {
+      "stargazerCount": 39,
+      "forkCount": 1,
+      "pushedAt": "2026-09-26T15:38:17Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "timbroddin/app-store-aso-skill": {
+      "stargazerCount": 102,
+      "forkCount": 5,
+      "pushedAt": "2026-05-04T12:10:32Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "Dimillian/Skills": {
+      "stargazerCount": 4035,
+      "forkCount": 208,
+      "pushedAt": "2026-03-29T15:28:02Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "rgmez/apple-accessibility-skills": {
+      "stargazerCount": 34,
+      "forkCount": 0,
+      "pushedAt": "2026-11-14T20:32:40Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "3paws-ai/mobile-ai-skills": {
+      "stargazerCount": 9,
+      "forkCount": 0,
+      "pushedAt": "2026-07-24T19:02:20Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "rorkai/app-store-connect-cli-skills": {
+      "stargazerCount": 1146,
+      "forkCount": 69,
+      "pushedAt": "2026-11-16T06:41:45Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "tsogjavklann/awwwards-3d": {
+      "stargazerCount": 38,
+      "forkCount": 5,
+      "pushedAt": "2026-05-08T18:20:22Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "n0an/Background-Execution-Agent-Skill": {
+      "stargazerCount": 13,
+      "forkCount": 0,
+      "pushedAt": "2026-09-08T11:22:54Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "rsmdt/the-startup": {
+      "stargazerCount": 587,
+      "forkCount": 72,
+      "pushedAt": "2026-10-26T22:43:25Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "obra/superpowers": {
+      "stargazerCount": 323415,
+      "forkCount": 28698,
+      "pushedAt": "2026-11-03T23:24:58Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "nexu-io/open-design": {
+      "stargazerCount": 108790,
+      "forkCount": 12310,
+      "pushedAt": "2026-11-21T09:58:31Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "browser-use/browser-harness": {
+      "stargazerCount": 19182,
+      "forkCount": 1901,
+      "pushedAt": "2026-11-21T01:46:58Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "browser-use/browser-use": {
+      "stargazerCount": 121658,
+      "forkCount": 13593,
+      "pushedAt": "2026-11-21T03:05:00Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "cheriftj/c4-model-skill": {
+      "stargazerCount": 45,
+      "forkCount": 2,
+      "pushedAt": "2026-04-25T08:23:10Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "K-Dense-AI/scientific-agent-skills": {
+      "stargazerCount": 58001,
+      "forkCount": 5086,
+      "pushedAt": "2026-11-16T09:19:25Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "citypaul/.dotfiles": {
+      "stargazerCount": 760,
+      "forkCount": 98,
+      "pushedAt": "2026-11-21T12:04:30Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "199-biotechnologies/claude-deep-research-skill": {
+      "stargazerCount": 1226,
+      "forkCount": 132,
+      "pushedAt": "2026-04-11T22:18:08Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "cloudflare/skills": {
+      "stargazerCount": 3421,
+      "forkCount": 357,
+      "pushedAt": "2026-11-17T15:55:50Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "mattpocock/skills": {
+      "stargazerCount": 329468,
+      "forkCount": 27684,
+      "pushedAt": "2026-11-19T13:35:13Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "awesome-skills/code-review-skill": {
+      "stargazerCount": 2303,
+      "forkCount": 237,
+      "pushedAt": "2026-09-08T15:09:45Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "rampstackco/claude-skills": {
+      "stargazerCount": 1105,
+      "forkCount": 155,
+      "pushedAt": "2026-11-16T06:48:47Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "coreyhaines31/marketingskills": {
+      "stargazerCount": 61817,
+      "forkCount": 9020,
+      "pushedAt": "2026-11-20T02:15:08Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "AvdLee/Core-Data-Agent-Skill": {
+      "stargazerCount": 323,
+      "forkCount": 17,
+      "pushedAt": "2026-09-14T09:05:25Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "trycourier/courier-skills": {
+      "stargazerCount": 16,
+      "forkCount": 4,
+      "pushedAt": "2026-11-19T23:06:03Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "schalkneethling/claude-toolkit": {
+      "stargazerCount": 3,
+      "forkCount": 0,
+      "pushedAt": "2026-07-02T20:47:28Z",
+      "isArchived": true,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "flutter/agent-plugins": {
+      "stargazerCount": 3199,
+      "forkCount": 193,
+      "pushedAt": "2026-11-19T00:23:23Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "anthropics/knowledge-work-plugins": {
+      "stargazerCount": 36640,
+      "forkCount": 4044,
+      "pushedAt": "2026-11-21T07:25:29Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "datadog-labs/agent-skills": {
+      "stargazerCount": 185,
+      "forkCount": 38,
+      "pushedAt": "2026-11-20T19:03:08Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "product-on-purpose/pm-skills": {
+      "stargazerCount": 831,
+      "forkCount": 105,
+      "pushedAt": "2026-11-17T01:24:06Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "kylezantos/design-motion-principles": {
+      "stargazerCount": 1625,
+      "forkCount": 131,
+      "pushedAt": "2026-05-30T23:17:35Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "digitalsamba/claude-code-video-toolkit": {
+      "stargazerCount": 2693,
+      "forkCount": 468,
+      "pushedAt": "2026-11-20T21:53:11Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "duckdb/duckdb-skills": {
+      "stargazerCount": 619,
+      "forkCount": 41,
+      "pushedAt": "2026-11-17T10:58:37Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "expo/skills": {
+      "stargazerCount": 4201,
+      "forkCount": 277,
+      "pushedAt": "2026-11-20T20:26:39Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "elevenlabs/skills": {
+      "stargazerCount": 579,
+      "forkCount": 98,
+      "pushedAt": "2026-11-18T20:49:40Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.434Z"
+    },
+    "zarazhangrui/frontend-slides": {
+      "stargazerCount": 32721,
+      "forkCount": 2494,
+      "pushedAt": "2026-06-23T20:08:19Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "addyosmani/agent-skills": {
+      "stargazerCount": 119510,
+      "forkCount": 12417,
+      "pushedAt": "2026-11-18T20:06:38Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "google-gemini/gemini-skills": {
+      "stargazerCount": 4533,
+      "forkCount": 509,
+      "pushedAt": "2026-11-19T17:07:10Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "aaron-he-zhu/seo-geo-claude-skills": {
+      "stargazerCount": 254,
+      "forkCount": 34,
+      "pushedAt": "2026-09-04T04:50:54Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "openai/skills": {
+      "stargazerCount": 28870,
+      "forkCount": 2031,
+      "pushedAt": "2026-10-28T17:31:41Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "greensock/gsap-skills": {
+      "stargazerCount": 18860,
+      "forkCount": 1206,
+      "pushedAt": "2026-07-29T17:36:08Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "googleworkspace/cli": {
+      "stargazerCount": 32426,
+      "forkCount": 2003,
+      "pushedAt": "2026-11-20T14:06:28Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "huggingface/skills": {
+      "stargazerCount": 11375,
+      "forkCount": 801,
+      "pushedAt": "2026-11-20T23:41:21Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "blader/humanizer": {
+      "stargazerCount": 71864,
+      "forkCount": 5623,
+      "pushedAt": "2026-11-19T18:53:14Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "pbakaus/impeccable": {
+      "stargazerCount": 114348,
+      "forkCount": 6800,
+      "pushedAt": "2026-11-21T07:54:59Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "dadederk/iOS-Accessibility-Agent-Skill": {
+      "stargazerCount": 177,
+      "forkCount": 4,
+      "pushedAt": "2026-03-09T00:59:19Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "jazzychad/ios-code-audit": {
+      "stargazerCount": 41,
+      "forkCount": 0,
+      "pushedAt": "2026-05-21T19:17:51Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "conorluddy/ios-simulator-skill": {
+      "stargazerCount": 1332,
+      "forkCount": 106,
+      "pushedAt": "2026-11-08T15:21:32Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "LukasNiessen/kubernetes-skill": {
+      "stargazerCount": 479,
+      "forkCount": 84,
+      "pushedAt": "2026-09-13T11:41:03Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "leonxlnx/taste-skill": {
+      "stargazerCount": 119585,
+      "forkCount": 8008,
+      "pushedAt": "2026-11-08T21:51:50Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "motherduckdb/agent-skills": {
+      "stargazerCount": 62,
+      "forkCount": 7,
+      "pushedAt": "2026-11-20T10:56:26Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "kaventro/motion-designer": {
+      "stargazerCount": 120,
+      "forkCount": 10,
+      "pushedAt": "2026-11-18T20:01:19Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "netlify/context-and-tools": {
+      "stargazerCount": 55,
+      "forkCount": 17,
+      "pushedAt": "2026-11-20T18:28:47Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+      "stargazerCount": 152377,
+      "forkCount": 16067,
+      "pushedAt": "2026-11-21T13:12:19Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "OctagonAI/skills": {
+      "stargazerCount": 132,
+      "forkCount": 14,
+      "pushedAt": "2026-06-05T18:06:01Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "lackeyjb/playwright-skill": {
+      "stargazerCount": 3307,
+      "forkCount": 259,
+      "pushedAt": "2026-11-01T07:36:27Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "DietrichGebert/ponytail": {
+      "stargazerCount": 196077,
+      "forkCount": 11044,
+      "pushedAt": "2026-10-29T11:59:31Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "promptfoo/promptfoo": {
+      "stargazerCount": 27516,
+      "forkCount": 2808,
+      "pushedAt": "2026-11-21T14:41:31Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "oso95/scroll-world": {
+      "stargazerCount": 11093,
+      "forkCount": 1203,
+      "pushedAt": "2026-07-29T04:44:56Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "getsentry/sentry-for-ai": {
+      "stargazerCount": 280,
+      "forkCount": 39,
+      "pushedAt": "2026-11-19T12:04:05Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "mattbx/shadcn-skills": {
+      "stargazerCount": 24,
+      "forkCount": 3,
+      "pushedAt": "2026-04-27T08:26:59Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "stripe/ai": {
+      "stargazerCount": 2076,
+      "forkCount": 385,
+      "pushedAt": "2026-11-21T01:50:03Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "supabase/agent-skills": {
+      "stargazerCount": 3117,
+      "forkCount": 271,
+      "pushedAt": "2026-11-12T15:32:31Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "PasqualeVittoriosi/swift-accessibility-skill": {
+      "stargazerCount": 85,
+      "forkCount": 3,
+      "pushedAt": "2026-03-09T22:09:15Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "Erikote04/Swift-API-Design-Guidelines-Agent-Skill": {
+      "stargazerCount": 33,
+      "forkCount": 2,
+      "pushedAt": "2026-02-18T13:37:01Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "efremidze/swift-architecture-skill": {
+      "stargazerCount": 85,
+      "forkCount": 6,
+      "pushedAt": "2026-09-28T06:13:48Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "AvdLee/Swift-Concurrency-Agent-Skill": {
+      "stargazerCount": 1722,
+      "forkCount": 102,
+      "pushedAt": "2026-11-06T08:11:48Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "twostraws/Swift-Concurrency-Agent-Skill": {
+      "stargazerCount": 595,
+      "forkCount": 23,
+      "pushedAt": "2026-05-17T16:07:46Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "mhaviv/Swift-FocusEngine-Agent-Skill": {
+      "stargazerCount": 22,
+      "forkCount": 1,
+      "pushedAt": "2026-08-31T00:53:13Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "n0an/Swift-FormatStyle-Agent-Skill": {
+      "stargazerCount": 15,
+      "forkCount": 1,
+      "pushedAt": "2026-09-08T11:23:10Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "ivan-magda/swift-security-skill": {
+      "stargazerCount": 40,
+      "forkCount": 1,
+      "pushedAt": "2026-06-17T11:50:46Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "bocato/swift-testing-agent-skill": {
+      "stargazerCount": 80,
+      "forkCount": 3,
+      "pushedAt": "2026-01-28T06:09:46Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "AvdLee/Swift-Testing-Agent-Skill": {
+      "stargazerCount": 482,
+      "forkCount": 21,
+      "pushedAt": "2026-09-14T09:05:26Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "twostraws/Swift-Testing-Agent-Skill": {
+      "stargazerCount": 483,
+      "forkCount": 20,
+      "pushedAt": "2026-05-17T15:49:43Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "vanab/swiftdata-agent-skill": {
+      "stargazerCount": 14,
+      "forkCount": 0,
+      "pushedAt": "2026-02-08T17:12:21Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "twostraws/SwiftData-Agent-Skill": {
+      "stargazerCount": 472,
+      "forkCount": 23,
+      "pushedAt": "2026-10-19T12:30:19Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "akshaypimprikar/ios-swiftdata-testing-agent-skill": {
+      "stargazerCount": 4,
+      "forkCount": 0,
+      "pushedAt": "2026-07-19T19:44:22Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "arjitj2/swiftui-design-principles": {
+      "stargazerCount": 34,
+      "forkCount": 1,
+      "pushedAt": "2026-03-16T03:51:12Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "twostraws/SwiftUI-Agent-Skill": {
+      "stargazerCount": 6600,
+      "forkCount": 258,
+      "pushedAt": "2026-10-26T16:53:18Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "rebelytics/one-skill-to-rule-them-all": {
+      "stargazerCount": 3989,
+      "forkCount": 396,
+      "pushedAt": "2026-11-20T17:36:47Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "antonbabenko/terraform-skill": {
+      "stargazerCount": 2482,
+      "forkCount": 232,
+      "pushedAt": "2026-11-19T12:30:08Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "szilu/ux-designer-skill": {
+      "stargazerCount": 100,
+      "forkCount": 15,
+      "pushedAt": "2026-11-15T19:35:33Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "veniceai/skills": {
+      "stargazerCount": 175,
+      "forkCount": 31,
+      "pushedAt": "2026-11-20T22:28:26Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "vercel-labs/agent-skills": {
+      "stargazerCount": 34645,
+      "forkCount": 3018,
+      "pushedAt": "2026-11-20T19:20:13Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "bradautomates/claude-video": {
+      "stargazerCount": 21435,
+      "forkCount": 2286,
+      "pushedAt": "2026-09-25T01:25:54Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "andrewgleave/skills": {
+      "stargazerCount": 35,
+      "forkCount": 1,
+      "pushedAt": "2026-04-23T14:15:58Z",
+      "isArchived": false,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    },
+    "xiaolai/anthropic-docs": {
+      "stargazerCount": 19,
+      "forkCount": 9,
+      "pushedAt": "2026-09-30T13:54:31Z",
+      "isArchived": true,
+      "fetchedAt": "2026-11-21T14:49:28.435Z"
+    }
+  },
+  "tarballReachability": {
+    "5-whys": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:48.708Z"
+    },
+    "academic-pptx": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:49.240Z"
+    },
+    "accessibility": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:49.762Z"
+    },
+    "accessibility-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:50.284Z"
+    },
+    "actk-api-design-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:50.807Z"
+    },
+    "actk-authentication-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:51.345Z"
+    },
+    "actk-ci-cd-pipelines": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:51.832Z"
+    },
+    "actk-data-engineering": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:52.318Z"
+    },
+    "actk-database-optimization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:52.806Z"
+    },
+    "actk-devops-automation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:53.300Z"
+    },
+    "actk-django-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:53.793Z"
+    },
+    "actk-docker-best-practices": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:54.282Z"
+    },
+    "actk-golang-idioms": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:54.768Z"
+    },
+    "actk-graphql-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:55.254Z"
+    },
+    "actk-kubernetes-operations": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:55.764Z"
+    },
+    "actk-microservices-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:56.256Z"
+    },
+    "actk-postgres-optimization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:56.748Z"
+    },
+    "actk-python-best-practices": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:57.237Z"
+    },
+    "actk-redis-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:57.724Z"
+    },
+    "actk-rust-systems": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:58.222Z"
+    },
+    "actk-security-hardening": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:58.717Z"
+    },
+    "actk-springboot-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:59.208Z"
+    },
+    "actk-typescript-advanced": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:44:59.699Z"
+    },
+    "actk-websocket-realtime": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:00.191Z"
+    },
+    "agents-md": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:00.683Z"
+    },
+    "airunway-aks-setup": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:01.230Z"
+    },
+    "algorithmic-art": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:01.768Z"
+    },
+    "ambient-section-particles": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:02.301Z"
+    },
+    "animation-on-scroll": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:02.822Z"
+    },
+    "animation-systems": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:03.323Z"
+    },
+    "anthropic-claude-api": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:03.808Z"
+    },
+    "anthropic-internal-comms": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:04.336Z"
+    },
+    "api-ai-augmented": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:04.835Z"
+    },
+    "api-analyzer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:05.327Z"
+    },
+    "api-compliance-checker": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:05.813Z"
+    },
+    "api-designer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:06.308Z"
+    },
+    "api-documentation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:06.795Z"
+    },
+    "api-fetcher-specific-domains": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:07.283Z"
+    },
+    "api-graphql-grpc": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:07.774Z"
+    },
+    "api-health-monitoring": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:08.267Z"
+    },
+    "api-inferrer-from-files": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:08.761Z"
+    },
+    "api-integration": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:09.252Z"
+    },
+    "api-mock-helper": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:09.740Z"
+    },
+    "api-rate-limiting-helper": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:10.230Z"
+    },
+    "api-sdk-generator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:10.723Z"
+    },
+    "api-security-auth-pattern": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:11.213Z"
+    },
+    "api-to-testcase-generator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:11.703Z"
+    },
+    "api-versioning-helper": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:12.214Z"
+    },
+    "app-intents": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:12.707Z"
+    },
+    "app-store-aso": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:13.256Z"
+    },
+    "app-store-changelog": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:13.773Z"
+    },
+    "appinsights-instrumentation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:14.289Z"
+    },
+    "appium-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:14.780Z"
+    },
+    "appkit-accessibility-auditor": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:15.270Z"
+    },
+    "applicationinsights-web-ts": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:15.797Z"
+    },
+    "appstore-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:16.295Z"
+    },
+    "asc-app-create-ui": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:16.827Z"
+    },
+    "asc-apple-ads": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:17.355Z"
+    },
+    "asc-aso-audit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:17.859Z"
+    },
+    "asc-build-lifecycle": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:18.353Z"
+    },
+    "asc-crash-triage": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:18.850Z"
+    },
+    "asc-id-resolver": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:19.339Z"
+    },
+    "asc-localize-metadata": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:19.829Z"
+    },
+    "asc-metadata-sync": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:20.318Z"
+    },
+    "asc-notarization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:20.808Z"
+    },
+    "asc-ppp-pricing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:21.299Z"
+    },
+    "asc-release-flow": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:21.785Z"
+    },
+    "asc-revenuecat-catalog-sync": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:22.273Z"
+    },
+    "asc-screenshot-resize": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:22.765Z"
+    },
+    "asc-shots-pipeline": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:23.252Z"
+    },
+    "asc-signing-setup": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:23.738Z"
+    },
+    "asc-submission-health": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:24.226Z"
+    },
+    "asc-subscription-localization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:24.712Z"
+    },
+    "asc-testflight-orchestration": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:25.200Z"
+    },
+    "asc-whats-new-writer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:25.690Z"
+    },
+    "asc-workflow": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:26.198Z"
+    },
+    "asc-xcode-build": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:26.693Z"
+    },
+    "atmosphere-background": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:27.185Z"
+    },
+    "audit-reference-originality": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:27.675Z"
+    },
+    "audit-verify-explain-grade-5": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:28.162Z"
+    },
+    "author-game-levels": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:28.647Z"
+    },
+    "awwwards-3d": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:29.139Z"
+    },
+    "azure-ai": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:29.679Z"
+    },
+    "azure-aigateway": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:30.170Z"
+    },
+    "azure-app-onboard": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:30.663Z"
+    },
+    "azure-app-onboard-prereq": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:31.153Z"
+    },
+    "azure-cloud-migrate": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:31.644Z"
+    },
+    "azure-compliance": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:32.137Z"
+    },
+    "azure-compute": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:32.625Z"
+    },
+    "azure-cost": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:33.114Z"
+    },
+    "azure-deploy": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:33.612Z"
+    },
+    "azure-diagnostics": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:34.107Z"
+    },
+    "azure-enterprise-infra-planner": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:34.601Z"
+    },
+    "azure-kubernetes": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:35.089Z"
+    },
+    "azure-kusto": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:35.583Z"
+    },
+    "azure-messaging": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:36.075Z"
+    },
+    "azure-prepare": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:36.567Z"
+    },
+    "azure-quotas": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:37.059Z"
+    },
+    "azure-reliability": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:37.545Z"
+    },
+    "azure-resource-lookup": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:38.033Z"
+    },
+    "azure-resource-visualizer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:38.527Z"
+    },
+    "azure-storage": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:39.024Z"
+    },
+    "azure-upgrade": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:39.522Z"
+    },
+    "azure-validate": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:40.010Z"
+    },
+    "background-execution": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:40.506Z"
+    },
+    "beam-glow-states": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:41.039Z"
+    },
+    "beautiful-shadows": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:41.528Z"
+    },
+    "behat-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:42.016Z"
+    },
+    "behave-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:42.509Z"
+    },
+    "blog-writing-guide": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:43.002Z"
+    },
+    "book-serif-index": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:43.491Z"
+    },
+    "brainstorm": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:43.991Z"
+    },
+    "brainstorming": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:44.524Z"
+    },
+    "brand-guidelines": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:45.060Z"
+    },
+    "brandkit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:45.549Z"
+    },
+    "browser-harness": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:46.069Z"
+    },
+    "browser-use-cloud": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:46.583Z"
+    },
+    "browser-use-core": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:47.123Z"
+    },
+    "browser-use-open-source": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:47.646Z"
+    },
+    "browser-use-qa": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:48.134Z"
+    },
+    "browser-use-remote-browser": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:48.625Z"
+    },
+    "browser-use-x402": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:49.114Z"
+    },
+    "build-awwwards-quality-sites": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:49.605Z"
+    },
+    "build-game-audio-feedback": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:50.094Z"
+    },
+    "build-game-camera-controls": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:50.595Z"
+    },
+    "build-game-changelog": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:51.083Z"
+    },
+    "build-game-inventory": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:51.572Z"
+    },
+    "build-game-map-editor": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:52.060Z"
+    },
+    "build-game-monster-system": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:52.555Z"
+    },
+    "build-hybrid-game-assets": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:53.059Z"
+    },
+    "build-isometric-arpg": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:53.544Z"
+    },
+    "build-mobile-threejs-games": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:54.041Z"
+    },
+    "build-threejs-enemy-systems": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:54.528Z"
+    },
+    "c4-model": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:55.027Z"
+    },
+    "canvas-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:55.561Z"
+    },
+    "capybara-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:56.052Z"
+    },
+    "career-ops": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:56.595Z"
+    },
+    "cicd-pipeline-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:57.117Z"
+    },
+    "cinematic-gsap-lenis-motion-system": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:57.605Z"
+    },
+    "cinematic-scroll-storytelling": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:58.097Z"
+    },
+    "citation-management": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:58.591Z"
+    },
+    "citypaul-ddd": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:59.118Z"
+    },
+    "citypaul-finding-seams": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:45:59.642Z"
+    },
+    "citypaul-hexagonal": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:00.140Z"
+    },
+    "citypaul-refactoring": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:00.628Z"
+    },
+    "citypaul-tdd": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:01.122Z"
+    },
+    "citypaul-testing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:01.610Z"
+    },
+    "claude-deep-research-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:02.099Z"
+    },
+    "claude-settings-audit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:02.640Z"
+    },
+    "cloud-solution-architect": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:03.173Z"
+    },
+    "cloudflare-agents-sdk": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:03.704Z"
+    },
+    "cloudflare-wrangler": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:04.233Z"
+    },
+    "cobejs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:04.772Z"
+    },
+    "code-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:05.288Z"
+    },
+    "code-review-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:05.816Z"
+    },
+    "code-simplifier": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:06.359Z"
+    },
+    "codebase-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:06.850Z"
+    },
+    "codeception-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:07.344Z"
+    },
+    "commit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:07.848Z"
+    },
+    "container-lines": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:08.344Z"
+    },
+    "content-and-copy": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:08.838Z"
+    },
+    "content-strategy": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:09.362Z"
+    },
+    "continual-learning": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:09.863Z"
+    },
+    "copilot-sdk": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:10.408Z"
+    },
+    "copy-editing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:10.897Z"
+    },
+    "copywriting": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:11.453Z"
+    },
+    "core-data-expert": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:11.968Z"
+    },
+    "corner-diagonals": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:12.561Z"
+    },
+    "courier": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:13.057Z"
+    },
+    "create-branch": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:13.632Z"
+    },
+    "create-game-vfx": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:14.132Z"
+    },
+    "css-alpha-masking": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:14.623Z"
+    },
+    "css-border-gradient": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:15.112Z"
+    },
+    "css-coder": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:15.606Z"
+    },
+    "css-tokens": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:16.170Z"
+    },
+    "cucumber-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:16.659Z"
+    },
+    "dart-add-unit-test": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:17.149Z"
+    },
+    "dart-build-cli-app": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:17.669Z"
+    },
+    "dart-collect-coverage": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:18.157Z"
+    },
+    "dart-fix-runtime-errors": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:18.646Z"
+    },
+    "dart-generate-test-mocks": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:19.135Z"
+    },
+    "dart-migrate-to-checks-package": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:19.642Z"
+    },
+    "dart-resolve-package-conflicts": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:20.129Z"
+    },
+    "dart-run-static-analysis": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:20.617Z"
+    },
+    "dart-setup-ffi-assets": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:21.106Z"
+    },
+    "dart-use-ffigen": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:21.606Z"
+    },
+    "dart-use-pattern-matching": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:22.096Z"
+    },
+    "dart-use-primary-constructors": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:22.595Z"
+    },
+    "data-statistical-analysis": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:23.088Z"
+    },
+    "data-visualization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:23.620Z"
+    },
+    "dd-apm": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:24.109Z"
+    },
+    "dd-docs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:24.631Z"
+    },
+    "dd-logs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:25.150Z"
+    },
+    "dd-monitors": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:25.639Z"
+    },
+    "dd-triage-flaky-test": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:26.133Z"
+    },
+    "dd-unblock-pr": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:26.621Z"
+    },
+    "debugview": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:27.114Z"
+    },
+    "declarative-agent-developer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:27.610Z"
+    },
+    "define-prioritization-framework": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:28.097Z"
+    },
+    "define-problem-statement": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:28.627Z"
+    },
+    "deliver-prd": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:29.115Z"
+    },
+    "deliver-user-stories": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:29.607Z"
+    },
+    "design-action-combat": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:30.094Z"
+    },
+    "design-brief": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:30.585Z"
+    },
+    "design-first-ui-prompting": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:31.128Z"
+    },
+    "design-game-encounters": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:31.615Z"
+    },
+    "design-motion-principles": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:32.107Z"
+    },
+    "detox-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:32.624Z"
+    },
+    "diagnosing-bugs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:33.124Z"
+    },
+    "digitalsamba-video-toolkit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:33.616Z"
+    },
+    "discover-competitive-analysis": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:34.139Z"
+    },
+    "dither-background": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:34.662Z"
+    },
+    "django-access-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:35.154Z"
+    },
+    "django-perf-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:35.654Z"
+    },
+    "doc-coauthoring": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:36.144Z"
+    },
+    "document-api-endpoint": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:36.664Z"
+    },
+    "documentary-brutalist-agency": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:37.152Z"
+    },
+    "domain-modeling": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:37.638Z"
+    },
+    "duckdb-query": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:38.126Z"
+    },
+    "duckdb-read-file": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:38.648Z"
+    },
+    "eas-workflows": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:39.136Z"
+    },
+    "editorial-portfolio-chapters": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:39.665Z"
+    },
+    "editorial-qa": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:40.171Z"
+    },
+    "editorial-service-booking": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:40.661Z"
+    },
+    "elevenlabs-music": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:41.148Z"
+    },
+    "elevenlabs-sound-effects": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:41.675Z"
+    },
+    "elevenlabs-speech-to-text": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:42.169Z"
+    },
+    "elevenlabs-text-to-speech": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:42.661Z"
+    },
+    "elevenlabs-voice-changer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:43.149Z"
+    },
+    "email-sequences": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:43.635Z"
+    },
+    "entra-agent-id": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:44.123Z"
+    },
+    "entra-app-registration": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:44.612Z"
+    },
+    "espresso-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:45.104Z"
+    },
+    "exa-search": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:45.592Z"
+    },
+    "experimental-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:46.152Z"
+    },
+    "explore-data": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:46.638Z"
+    },
+    "expo-router": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:47.126Z"
+    },
+    "expo-upgrade": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:47.614Z"
+    },
+    "find-bugs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:48.103Z"
+    },
+    "flutter-add-integration-test": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:48.622Z"
+    },
+    "flutter-add-widget-preview": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:49.109Z"
+    },
+    "flutter-add-widget-test": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:49.598Z"
+    },
+    "flutter-apply-architecture-best-practices": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:50.088Z"
+    },
+    "flutter-build-responsive-layout": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:50.585Z"
+    },
+    "flutter-fix-layout-issues": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:51.073Z"
+    },
+    "flutter-implement-json-serialization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:51.563Z"
+    },
+    "flutter-setup-declarative-routing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:52.055Z"
+    },
+    "flutter-setup-localization": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:52.542Z"
+    },
+    "flutter-testing-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:53.031Z"
+    },
+    "flutter-use-http-package": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:53.519Z"
+    },
+    "framed-grid-layout": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:54.009Z"
+    },
+    "framed-tech-dark-border-gradient": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:54.506Z"
+    },
+    "frontend-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:55.011Z"
+    },
+    "frontend-design-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:55.498Z"
+    },
+    "frontend-slides": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:55.990Z"
+    },
+    "frontend-ui-engineering": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:56.520Z"
+    },
+    "gauge-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:57.040Z"
+    },
+    "geb-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:57.565Z"
+    },
+    "gemini-api-dev": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:58.052Z"
+    },
+    "gemini-live-api-dev": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:58.587Z"
+    },
+    "geo-content-optimizer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:59.077Z"
+    },
+    "gh-fix-ci": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:46:59.598Z"
+    },
+    "gh-review-requests": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:00.137Z"
+    },
+    "git-guardrails-claude-code": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:00.640Z"
+    },
+    "github-issue-creator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:01.127Z"
+    },
+    "glass-dark-mode-clock": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:01.616Z"
+    },
+    "glass-dark-ui": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:02.106Z"
+    },
+    "globe-particles": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:02.596Z"
+    },
+    "grill-me": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:03.083Z"
+    },
+    "grill-with-docs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:03.599Z"
+    },
+    "gsap-core": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:04.085Z"
+    },
+    "gsap-frameworks": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:04.603Z"
+    },
+    "gsap-performance": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:05.091Z"
+    },
+    "gsap-plugins": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:05.585Z"
+    },
+    "gsap-react": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:06.072Z"
+    },
+    "gsap-scrolltrigger": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:06.560Z"
+    },
+    "gsap-timeline": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:07.068Z"
+    },
+    "gsap-utils": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:07.553Z"
+    },
+    "gws-drive": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:08.039Z"
+    },
+    "gws-shared": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:08.563Z"
+    },
+    "gws-sheets": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:09.052Z"
+    },
+    "handoff": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:09.540Z"
+    },
+    "hf-cli": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:10.028Z"
+    },
+    "hf-cloud-aws-context-discovery": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:10.558Z"
+    },
+    "hf-cloud-python-env-setup": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:11.086Z"
+    },
+    "hf-cloud-sagemaker-deployment-planner": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:11.586Z"
+    },
+    "hf-cloud-sagemaker-iam-preflight": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:12.074Z"
+    },
+    "hf-cloud-sagemaker-production-defaults": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:12.563Z"
+    },
+    "hf-cloud-serving-image-selection": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:13.052Z"
+    },
+    "hf-mcp": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:13.542Z"
+    },
+    "hf-mem": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:14.029Z"
+    },
+    "high-contrast-skeuomorphic-clean": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:14.516Z"
+    },
+    "huggingface-best": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:15.043Z"
+    },
+    "huggingface-community-evals": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:15.538Z"
+    },
+    "huggingface-datasets": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:16.030Z"
+    },
+    "huggingface-gradio": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:16.525Z"
+    },
+    "huggingface-llm-trainer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:17.010Z"
+    },
+    "huggingface-local-models": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:17.500Z"
+    },
+    "huggingface-lora-space-builder": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:17.988Z"
+    },
+    "huggingface-paper-publisher": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:18.481Z"
+    },
+    "huggingface-papers": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:18.981Z"
+    },
+    "huggingface-spaces": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:19.477Z"
+    },
+    "huggingface-tool-builder": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:19.966Z"
+    },
+    "huggingface-trackio": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:20.452Z"
+    },
+    "huggingface-vision-trainer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:20.945Z"
+    },
+    "huggingface-zerogpu": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:21.436Z"
+    },
+    "humanizer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:21.926Z"
+    },
+    "hyperexecute-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:22.451Z"
+    },
+    "hypothesis-generation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:22.937Z"
+    },
+    "impeccable": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:23.427Z"
+    },
+    "improve-codebase-architecture": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:23.949Z"
+    },
+    "industrial-brutalist-ui": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:24.436Z"
+    },
+    "install-atk": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:24.946Z"
+    },
+    "ios-accessibility": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:25.460Z"
+    },
+    "ios-code-audit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:25.985Z"
+    },
+    "ios-debugger-agent": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:26.512Z"
+    },
+    "ios-simulator-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:27.025Z"
+    },
+    "iterate-pr": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:27.550Z"
+    },
+    "iterate-until-verified": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:28.067Z"
+    },
+    "jasmine-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:28.563Z"
+    },
+    "jest-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:29.056Z"
+    },
+    "junit-5-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:29.543Z"
+    },
+    "karma-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:30.038Z"
+    },
+    "kql": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:30.529Z"
+    },
+    "kubernetes-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:31.015Z"
+    },
+    "lambdatest-cypress": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:31.543Z"
+    },
+    "lambdatest-playwright": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:32.039Z"
+    },
+    "lambdatest-puppeteer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:32.526Z"
+    },
+    "landing-page": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:33.022Z"
+    },
+    "landing-page-copy": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:33.508Z"
+    },
+    "laravel-dusk-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:34.027Z"
+    },
+    "leonxlnx-gpt-tasteskill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:34.515Z"
+    },
+    "leonxlnx-image-to-code": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:35.024Z"
+    },
+    "leonxlnx-imagegen-frontend-mobile": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:35.518Z"
+    },
+    "leonxlnx-imagegen-frontend-web": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:36.011Z"
+    },
+    "leonxlnx-output-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:36.498Z"
+    },
+    "leonxlnx-soft-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:36.999Z"
+    },
+    "leonxlnx-stitch-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:37.491Z"
+    },
+    "lettuce-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:37.980Z"
+    },
+    "liquid-metal-border": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:38.465Z"
+    },
+    "literature-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:38.953Z"
+    },
+    "long-form-content-frameworks": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:39.440Z"
+    },
+    "m365-agent-evaluator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:39.932Z"
+    },
+    "macos-menubar-tuist-app": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:40.420Z"
+    },
+    "macos-spm-app-packaging": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:40.907Z"
+    },
+    "market-research-reports": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:41.395Z"
+    },
+    "marketing-psychology": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:41.880Z"
+    },
+    "masked-reveal": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:42.398Z"
+    },
+    "mcp-builder": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:42.884Z"
+    },
+    "mcp-builder-microsoft": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:43.404Z"
+    },
+    "mesh-gradient-dark-blue-clean": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:43.929Z"
+    },
+    "meta-tags-optimizer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:44.415Z"
+    },
+    "microsoft-docs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:44.905Z"
+    },
+    "microsoft-foundry": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:45.392Z"
+    },
+    "minimalist-ui": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:45.883Z"
+    },
+    "mocha-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:46.396Z"
+    },
+    "motherduck-duckdb-sql": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:46.882Z"
+    },
+    "motherduck-query": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:47.438Z"
+    },
+    "motion-designer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:47.931Z"
+    },
+    "ms-entra-agent-id": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:48.472Z"
+    },
+    "mstest-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:48.967Z"
+    },
+    "nemojs-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:49.463Z"
+    },
+    "netlify-ai-gateway": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:49.952Z"
+    },
+    "netlify-edge-functions": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:50.488Z"
+    },
+    "netlify-functions": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:50.977Z"
+    },
+    "newman-cicd-integration": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:51.466Z"
+    },
+    "newman-report-analyzer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:51.954Z"
+    },
+    "newman-script-helper": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:52.457Z"
+    },
+    "nightwatchjs-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:52.944Z"
+    },
+    "nlb-brand": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:53.435Z"
+    },
+    "nlb-design": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:53.948Z"
+    },
+    "nlb-design-system": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:54.433Z"
+    },
+    "nlb-slides": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:54.927Z"
+    },
+    "nlb-ui-styling": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:55.420Z"
+    },
+    "nunit-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:55.908Z"
+    },
+    "octagon-financial-analyst-master": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:56.396Z"
+    },
+    "openai-security-threat-model": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:56.946Z"
+    },
+    "openapi-spec-generator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:57.458Z"
+    },
+    "operational-enterprise-ai": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:57.975Z"
+    },
+    "optimize-threejs-games": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:58.472Z"
+    },
+    "optimize-web-animations": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:58.957Z"
+    },
+    "orange-clean-paper-saas": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:59.465Z"
+    },
+    "paper-lookup": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:47:59.958Z"
+    },
+    "peer-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:00.488Z"
+    },
+    "phpunit-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:00.983Z"
+    },
+    "pipeline-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:01.480Z"
+    },
+    "playwright-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:02.000Z"
+    },
+    "podcast-generation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:02.511Z"
+    },
+    "ponytail": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:02.999Z"
+    },
+    "postman-collection-generator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:03.522Z"
+    },
+    "postman-newman-automation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:04.010Z"
+    },
+    "postman-openapi-converter": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:04.506Z"
+    },
+    "postman-test-script-generator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:04.995Z"
+    },
+    "pr-link-issue": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:05.485Z"
+    },
+    "pr-writer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:05.979Z"
+    },
+    "presentation-creator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:06.466Z"
+    },
+    "pricing-page": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:06.958Z"
+    },
+    "product-proof-saas": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:07.449Z"
+    },
+    "progressive-blur": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:07.935Z"
+    },
+    "prompt-optimizer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:08.423Z"
+    },
+    "promptfoo-evals": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:08.910Z"
+    },
+    "promptfoo-redteam-plugin-development": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:09.688Z"
+    },
+    "prototype": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:10.177Z"
+    },
+    "protractor-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:10.718Z"
+    },
+    "pytest-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:11.206Z"
+    },
+    "python-appservice-deploy": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:11.697Z"
+    },
+    "redesign-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:12.184Z"
+    },
+    "replay-ux-research": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:12.708Z"
+    },
+    "reqnroll-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:13.195Z"
+    },
+    "resolving-merge-conflicts": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:13.685Z"
+    },
+    "reveal-hover-effect": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:14.192Z"
+    },
+    "review-contract": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:14.681Z"
+    },
+    "robot-framework-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:15.173Z"
+    },
+    "rspec-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:15.659Z"
+    },
+    "scholar-evaluation": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:16.147Z"
+    },
+    "scroll-progress-timeline": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:16.656Z"
+    },
+    "scroll-scrubbed-visual-sequence": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:17.167Z"
+    },
+    "scroll-scrubbed-word-reveal": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:17.660Z"
+    },
+    "scroll-world": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:18.151Z"
+    },
+    "scroll-world-storytelling": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:18.667Z"
+    },
+    "selenide-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:19.158Z"
+    },
+    "selenium-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:19.645Z"
+    },
+    "semantic-html": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:20.133Z"
+    },
+    "sentry-code-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:20.648Z"
+    },
+    "sentry-doc-coauthoring": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:21.172Z"
+    },
+    "sentry-gha-security-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:21.662Z"
+    },
+    "sentry-sdk-upgrade": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:22.154Z"
+    },
+    "sentry-security-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:22.680Z"
+    },
+    "sentry-workflow": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:23.169Z"
+    },
+    "seo": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:23.656Z"
+    },
+    "seo-content-writer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:24.170Z"
+    },
+    "serenity-bdd-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:24.684Z"
+    },
+    "setup-matt-pocock-skills": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:25.173Z"
+    },
+    "setup-pre-commit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:25.661Z"
+    },
+    "setup-ts-deep-modules": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:26.150Z"
+    },
+    "shadcn-component-discovery": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:26.637Z"
+    },
+    "shadcn-component-review": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:27.194Z"
+    },
+    "ship-web-games": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:27.681Z"
+    },
+    "skeuomorphic-ui": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:28.172Z"
+    },
+    "skill-creator-anthropic": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:28.659Z"
+    },
+    "skill-creator-microsoft": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:29.179Z"
+    },
+    "skill-scanner": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:29.711Z"
+    },
+    "skill-writer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:30.229Z"
+    },
+    "slack-gif-creator": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:30.716Z"
+    },
+    "smartui-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:31.205Z"
+    },
+    "specflow-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:31.694Z"
+    },
+    "sql-queries": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:32.183Z"
+    },
+    "sred-project-organizer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:32.717Z"
+    },
+    "sred-work-summary": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:33.208Z"
+    },
+    "staggered-word-reveal": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:33.702Z"
+    },
+    "statistical-power": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:34.189Z"
+    },
+    "stripe-best-practices": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:34.677Z"
+    },
+    "supabase": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:35.219Z"
+    },
+    "supabase-postgres-best-practices": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:35.748Z"
+    },
+    "swift-accessibility-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:36.242Z"
+    },
+    "swift-api-design-guidelines-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:36.765Z"
+    },
+    "swift-architecture-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:37.614Z"
+    },
+    "swift-concurrency": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:38.139Z"
+    },
+    "swift-concurrency-expert": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:38.663Z"
+    },
+    "swift-concurrency-pro": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:39.176Z"
+    },
+    "swift-focusengine-pro": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:39.696Z"
+    },
+    "swift-format-style": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:40.284Z"
+    },
+    "swift-security-expert": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:40.805Z"
+    },
+    "swift-testing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:41.359Z"
+    },
+    "swift-testing-expert": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:41.889Z"
+    },
+    "swift-testing-pro": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:42.405Z"
+    },
+    "swiftdata-expert-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:42.928Z"
+    },
+    "swiftdata-pro": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:43.459Z"
+    },
+    "swiftdata-testing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:43.974Z"
+    },
+    "swiftui-accessibility-auditor": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:44.520Z"
+    },
+    "swiftui-design-principles": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:45.031Z"
+    },
+    "swiftui-liquid-glass": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:45.558Z"
+    },
+    "swiftui-performance-audit": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:46.052Z"
+    },
+    "swiftui-pro": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:46.542Z"
+    },
+    "swiftui-ui-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:47.059Z"
+    },
+    "swiftui-view-refactor": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:47.550Z"
+    },
+    "systematic-debugging": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:48.038Z"
+    },
+    "task-observer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:48.548Z"
+    },
+    "taste-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:49.066Z"
+    },
+    "tdd": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:49.551Z"
+    },
+    "teach": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:50.039Z"
+    },
+    "teams-app-developer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:50.551Z"
+    },
+    "technical-wireframe-info-layout": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:51.044Z"
+    },
+    "terraform-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:51.532Z"
+    },
+    "test-driven-development": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:52.054Z"
+    },
+    "test-framework-migration-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:52.539Z"
+    },
+    "test-playable-web-games": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:53.033Z"
+    },
+    "testcafe-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:53.520Z"
+    },
+    "testng-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:54.008Z"
+    },
+    "testunit-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:54.501Z"
+    },
+    "theme-factory": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:54.997Z"
+    },
+    "thinking-orbs": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:55.532Z"
+    },
+    "ticket-triage": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:56.018Z"
+    },
+    "to-questionnaire": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:56.510Z"
+    },
+    "to-spec": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:57.002Z"
+    },
+    "to-tickets": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:57.491Z"
+    },
+    "train-sentence-transformers": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:57.980Z"
+    },
+    "transformers-js": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:58.494Z"
+    },
+    "triage": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:58.987Z"
+    },
+    "triage-frontend-issues": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:59.476Z"
+    },
+    "trl-training": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:48:59.964Z"
+    },
+    "tune-enemy-ai": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:00.475Z"
+    },
+    "typing-exclusion-worker": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:00.968Z"
+    },
+    "ui-ux-pro-max": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:01.472Z"
+    },
+    "ui-widget-developer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:01.993Z"
+    },
+    "uikit-accessibility-auditor": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:02.493Z"
+    },
+    "unittest-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:02.984Z"
+    },
+    "unsplash-asset-images": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:03.524Z"
+    },
+    "upgrade-stripe": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:04.015Z"
+    },
+    "ux-designer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:04.507Z"
+    },
+    "validate-data": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:05.046Z"
+    },
+    "variance-analysis": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:05.539Z"
+    },
+    "venice-api-overview": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:06.056Z"
+    },
+    "venice-chat": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:06.583Z"
+    },
+    "vercel-composition-patterns": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:07.075Z"
+    },
+    "vercel-deploy-to-vercel": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:07.618Z"
+    },
+    "vercel-optimize": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:08.137Z"
+    },
+    "vercel-react-best-practices": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:08.630Z"
+    },
+    "vercel-react-view-transitions": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:09.123Z"
+    },
+    "video-to-superprompt": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:09.626Z"
+    },
+    "vitest-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:10.137Z"
+    },
+    "watch": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:10.642Z"
+    },
+    "wayfinder": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:11.158Z"
+    },
+    "web-artifacts-builder": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:11.647Z"
+    },
+    "web-design-guidelines": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:12.141Z"
+    },
+    "web-performance": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:12.630Z"
+    },
+    "webapp-testing": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:13.117Z"
+    },
+    "webdriverio-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:13.609Z"
+    },
+    "webgl-3d-object": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:14.098Z"
+    },
+    "webgl-landing-steering": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:14.585Z"
+    },
+    "webgl-laser": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:15.073Z"
+    },
+    "wiki-ado-convert": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:15.560Z"
+    },
+    "wiki-agents-md": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:16.052Z"
+    },
+    "wiki-architect": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:16.540Z"
+    },
+    "wiki-changelog": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:17.030Z"
+    },
+    "wiki-llms-txt": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:17.520Z"
+    },
+    "wiki-onboarding": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:18.013Z"
+    },
+    "wiki-page-writer": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:18.502Z"
+    },
+    "wiki-qa": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:18.994Z"
+    },
+    "wiki-researcher": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:19.484Z"
+    },
+    "wiki-vitepress": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:19.975Z"
+    },
+    "wizard": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:20.464Z"
+    },
+    "write-a-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:20.987Z"
+    },
+    "writing-beats": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:21.496Z"
+    },
+    "writing-for-interfaces": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:21.985Z"
+    },
+    "writing-fragments": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:22.510Z"
+    },
+    "writing-great-skills": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:22.995Z"
+    },
+    "writing-plans": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:23.482Z"
+    },
+    "writing-shape": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:23.973Z"
+    },
+    "xcuitest-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:24.463Z"
+    },
+    "xiaolai-anthropic-api": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:24.958Z"
+    },
+    "xiaolai-claude-code": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:25.482Z"
+    },
+    "xunit-skill": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:25.973Z"
+    },
+    "zoom-out": {
+      "reachable": true,
+      "status": 200,
+      "checkedAt": "2026-11-21T14:49:26.467Z"
+    }
+  }
+}
